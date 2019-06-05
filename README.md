@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/esp-tops/MyFirstProject/_apis/build/status/jatman.pipelines-java?branchName=master)](https://dev.azure.com/esp-tops/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
